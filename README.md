@@ -8,13 +8,13 @@
 
 Reglas del Manual del Jugador de 2024 · Sin cuentas · Funciona sin conexión
 
-[![Última versión](https://img.shields.io/github/v/release/AdrianJimenezSantiago/DnD-Grimoire?label=%C3%BAltima%20versi%C3%B3n&color=e0b45c&labelColor=1e2740)](https://github.com/AdrianJimenezSantiago/DnD-Grimoire/releases/latest)
-[![Android](https://img.shields.io/badge/Android-APK-e0b45c?logo=android&logoColor=white&labelColor=1e2740)](https://github.com/AdrianJimenezSantiago/DnD-Grimoire/releases/latest)
-[![Windows](https://img.shields.io/badge/Windows-HTML-e0b45c?logo=windows&logoColor=white&labelColor=1e2740)](https://github.com/AdrianJimenezSantiago/DnD-Grimoire/releases/latest)
+[![Última versión](https://img.shields.io/github/v/release/Ajimsan2096/DnD-Grimoire?label=%C3%BAltima%20versi%C3%B3n&color=e0b45c&labelColor=1e2740)](https://github.com/Ajimsan2096/DnD-Grimoire/releases/latest)
+[![Android](https://img.shields.io/badge/Android-APK-e0b45c?logo=android&logoColor=white&labelColor=1e2740)](https://github.com/Ajimsan2096/DnD-Grimoire/releases/latest)
+[![Windows](https://img.shields.io/badge/Windows-HTML-e0b45c?logo=windows&logoColor=white&labelColor=1e2740)](https://github.com/Ajimsan2096/DnD-Grimoire/releases/latest)
 [![Web](https://img.shields.io/badge/Web-abrir-e0b45c?logo=googlechrome&logoColor=white&labelColor=1e2740)](https://dnd-grimoire-five.vercel.app)
-[![Pruebas](https://img.shields.io/github/actions/workflow/status/AdrianJimenezSantiago/DnD-Grimoire/pruebas.yml?branch=development&label=pruebas&labelColor=1e2740)](https://github.com/AdrianJimenezSantiago/DnD-Grimoire/actions/workflows/pruebas.yml)
+[![Pruebas](https://img.shields.io/github/actions/workflow/status/Ajimsan2096/DnD-Grimoire/pruebas.yml?branch=development&label=pruebas&labelColor=1e2740)](https://github.com/Ajimsan2096/DnD-Grimoire/actions/workflows/pruebas.yml)
 
-### [⬇️ Descargar la última versión](https://github.com/AdrianJimenezSantiago/DnD-Grimoire/releases/latest) · [🌐 Usar en el navegador](https://dnd-grimoire-five.vercel.app)
+### [⬇️ Descargar la última versión](https://github.com/Ajimsan2096/DnD-Grimoire/releases/latest) · [🌐 Usar en el navegador](https://dnd-grimoire-five.vercel.app)
 
 <br>
 
@@ -89,7 +89,7 @@ Elige la opción que mejor te venga. Todas son gratuitas.
 <details open>
 <summary><b>📱 En Android (recomendado)</b></summary>
 
-1. Desde el móvil, abre **[la última versión](https://github.com/AdrianJimenezSantiago/DnD-Grimoire/releases/latest)**.
+1. Desde el móvil, abre **[la última versión](https://github.com/Ajimsan2096/DnD-Grimoire/releases/latest)**.
 2. Baja hasta el apartado **Assets** y toca el archivo que empieza por **`grimorio-`** y termina en **`.apk`**.
 3. Cuando termine la descarga, ábrelo. Si el móvil pide permiso para *instalar apps desconocidas*, acéptalo.
 4. Si aparece un aviso de **Play Protect**, toca **Más detalles → Instalar de todos modos**. Sale porque la app no viene de la Play Store; es normal.
@@ -112,7 +112,7 @@ Los personajes se guardan en ese navegador, en ese dispositivo.
 <details>
 <summary><b>💻 En Windows (sin conexión)</b></summary>
 
-1. Abre **[la última versión](https://github.com/AdrianJimenezSantiago/DnD-Grimoire/releases/latest)** y descarga el archivo **`grimorio-windows-….html`**.
+1. Abre **[la última versión](https://github.com/Ajimsan2096/DnD-Grimoire/releases/latest)** y descarga el archivo **`grimorio-windows-….html`**.
 2. Guárdalo en una carpeta fija (por ejemplo, *Documentos*).
 3. Ábrelo con doble clic. Mejor con **Edge** o **Chrome**.
 
@@ -167,7 +167,7 @@ La app incluye de serie el contenido libre de las reglas (SRD). Las descripcione
 <details>
 <summary><b>He encontrado un fallo o tengo una idea. ¿Qué hago?</b></summary>
 
-Díselo al DJ, o si tienes cuenta de GitHub, [abre una incidencia](https://github.com/AdrianJimenezSantiago/DnD-Grimoire/issues/new/choose): hay un formulario sencillo para fallos y otro para ideas.
+Díselo al DJ, o si tienes cuenta de GitHub, [abre una incidencia](https://github.com/Ajimsan2096/DnD-Grimoire/issues/new/choose): hay un formulario sencillo para fallos y otro para ideas.
 </details>
 
 ## 🛠️ Para desarrolladores
@@ -211,7 +211,7 @@ La guía de [arquitectura](docs/arquitectura.md) explica las capas, qué puede d
 
 **Ramas y versiones**
 
-- `main`: versión estable. Cada cambio compila el APK y la versión de Windows y los publica en [Releases](https://github.com/AdrianJimenezSantiago/DnD-Grimoire/releases), con versionado semántico (`MAYOR.MENOR.PARCHE`):
+- `main`: versión estable. Cada cambio compila el APK y la versión de Windows y los publica en [Releases](https://github.com/Ajimsan2096/DnD-Grimoire/releases), con versionado semántico (`MAYOR.MENOR.PARCHE`):
   - cada pull request fusionado sube el parche (2.3.0 → 2.3.1);
   - `[menor]` en el título del pull request sube la versión menor (2.3.4 → 2.4.0), para funciones nuevas;
   - `[mayor]` sube la mayor (2.4.1 → 3.0.0), para cambios grandes.
@@ -227,6 +227,6 @@ Proyecto de aficionado, sin relación con Wizards of the Coast. *Dungeons & Drag
 
 <div align="center">
 
-Hecho con 🎲 por [Adrián Jiménez Santiago](https://github.com/AdrianJimenezSantiago)
+Hecho con 🎲 por [Adrián Jiménez Santiago](https://github.com/Ajimsan2096)
 
 </div>
